@@ -405,6 +405,7 @@
 				27B0C39D19EC022A00E7240A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		27B0C39E19EC022A00E7240A /* Build configuration list for PBXNativeTarget "WarTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +414,7 @@
 				27B0C3A019EC022A00E7240A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
